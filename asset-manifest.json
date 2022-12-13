@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slots-for-fun/static/css/main.7acaea2f.css",
+    "main.js": "/slots-for-fun/static/js/main.07d3183d.js",
+    "index.html": "/slots-for-fun/index.html",
+    "main.7acaea2f.css.map": "/slots-for-fun/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/slots-for-fun/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
